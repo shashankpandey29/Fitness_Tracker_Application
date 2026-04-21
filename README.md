@@ -21,8 +21,6 @@ Integrated Spring Security for authentication and authorization.
 Utilized MySQL database for efficient data storage and retrieval.
 Implemented personalized health recommendations based on user activity and performance metrics.
 Deployed the application on cloud platform ensuring scalability and reliability.
-
-
 📧 Contact
 📩 Email: pandeyshashank6794@gmail.com
 💼 LinkedIn: Shashank Pandey
